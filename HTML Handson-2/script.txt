@@ -1,0 +1,10 @@
+http://127.0.0.1:5500/form.html
+?name=Prasanna
+&email=srilaxmiprasannaanumalla%40gmail.com
+&password=gddghgjhj
+&language=Angular
+&Cousre=MERN
+&Course=MEAN
+&Field=Back+end
+&Review=hello%2Cwelcome
+&Number=1234567890
